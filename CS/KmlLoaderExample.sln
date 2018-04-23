@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmlLoaderExample", "KmlLoaderExample\KmlLoaderExample.csproj", "{B51DAF8A-C425-41DE-A2E4-5490826821B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmlLoaderExample.Web", "KmlLoaderExample.Web\KmlLoaderExample.Web.csproj", "{6BAC1C03-51F0-4024-9065-2C02DDBCB895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51DAF8A-C425-41DE-A2E4-5490826821B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51DAF8A-C425-41DE-A2E4-5490826821B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51DAF8A-C425-41DE-A2E4-5490826821B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51DAF8A-C425-41DE-A2E4-5490826821B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAC1C03-51F0-4024-9065-2C02DDBCB895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAC1C03-51F0-4024-9065-2C02DDBCB895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAC1C03-51F0-4024-9065-2C02DDBCB895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAC1C03-51F0-4024-9065-2C02DDBCB895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

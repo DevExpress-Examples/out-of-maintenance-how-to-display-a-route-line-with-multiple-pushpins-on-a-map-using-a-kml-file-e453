@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="KmlLoaderExample.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">88-62-85-F2-5A-F4-DD-9F-11-7F-23-0B-49-60-E8-C8-D5-3A-6A-D4</my:String>
+  </Application.Resources>
+</Application>
