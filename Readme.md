@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[MainPage.xaml](./CS/KmlLoaderExample/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/KmlLoaderExample/MainPage.xaml.vb))**
+* **[MainPage.xaml](./CS/KmlLoaderExample/MainPage.xaml) (VB: [MainPage.xaml](./VB/KmlLoaderExample/MainPage.xaml))**
 * [MainPage.xaml.cs](./CS/KmlLoaderExample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/KmlLoaderExample/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to display a route line with multiple pushpins on a map using a KML file
